@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Alice Parks",
+      "email": "aparks@gmail.com",
+      "age": 99
+    },
+    {
+      "id": "3",
+      "name": "Joe Blow",
+      "email": "jblow@gmail.com",
+      "age": 65
+    },
+    {
+      "id": "5",
+      "name": "George Banks",
+      "email": "gbanks@gmail.com",
+      "age": 40
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "_6slAFv"
+    }
+  ]
+}
